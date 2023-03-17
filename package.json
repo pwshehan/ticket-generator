@@ -9,7 +9,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/qrcode": "^1.5.0",
     "ts-node": "^10.9.1",
     "typescript": "^5.0.2"
+  },
+  "dependencies": {
+    "jimp": "^0.22.7",
+    "qrcode": "^1.5.1"
   }
 }
