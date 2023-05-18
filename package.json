@@ -14,7 +14,10 @@
     "typescript": "^5.0.2"
   },
   "dependencies": {
+    "@types/pdfmake": "^0.2.2",
     "jimp": "^0.22.7",
-    "qrcode": "^1.5.1"
+    "pdfmake": "^0.2.7",
+    "qrcode": "^1.5.1",
+    "short-unique-id": "^4.4.4"
   }
 }
